@@ -1,0 +1,19 @@
+Package: marcoP
+Title: Test 
+Version: 0.0.0.9000
+Authors@R: 
+    person("Marc", "Lamarine", , "Marc.Lamarine@precisionformedicine.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Test github deployment with pkgdown.
+Depends:
+    R (>= 3.0)
+Suggests:
+    brew,
+    ggplot2,
+    jsonlite,
+    testthat (>= 3.0.0)
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Config/testthat/edition: 3
