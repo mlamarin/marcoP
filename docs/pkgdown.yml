@@ -1,0 +1,9 @@
+pandoc: 2.17.1.1
+pkgdown: 2.0.1
+pkgdown_sha: ~
+articles: {}
+last_built: 2023-05-15T15:19Z
+urls:
+  reference: https://mlamarin.github.io/marcoP/reference
+  article: https://mlamarin.github.io/marcoP/articles
+
