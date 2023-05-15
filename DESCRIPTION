@@ -17,3 +17,4 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
 Config/testthat/edition: 3
+URL: https://mlamarin.github.io/marcoP/
